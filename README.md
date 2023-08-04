@@ -1,6 +1,6 @@
 
 
-### Hi, I'm Dakyeong 😆
+### Hi, I'm Lottie 😆
 
 - <b>프론트엔드</b> 개발자 오다경 입니다.
 - <a href="https://github.com/OhDaky">깃허브</a>를 통해 꾸준히 개발하고 기록하고 있습니다.
@@ -23,7 +23,7 @@
 
 ### Github Stats & Languages
 
-[![Dakyeong's GitHub stats](https://github-readme-stats-five-beta-38.vercel.app/api?username=OhDaky&custom_title=Dakyeong's&nbsp;github&count_private=true&title_color=ffffff&text_color=ffffff&bg_color=90,a1c4fd,c2e9fb&show_icons=true&theme=discord_old_blurple)](https://github.com/anuraghazra/github-readme-stats)
+[![Lottie's GitHub stats](https://github-readme-stats-five-beta-38.vercel.app/api?username=OhDaky&custom_title=Dakyeong's&nbsp;github&count_private=true&title_color=ffffff&text_color=ffffff&bg_color=90,a1c4fd,c2e9fb&show_icons=true&theme=discord_old_blurple)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats-five-beta-38.vercel.app/api/top-langs/?username=OhDaky&custom_title=Languages&layout=compact&title_color=ffffff&bg_color=90,a1c4fd,c2e9fb&text_color=ffffff)](https://github.com/yourusername/github-readme-stats)
 
 
