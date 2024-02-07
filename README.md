@@ -20,10 +20,3 @@
 ![React](https://img.shields.io/badge/-React-9e9e9e?style=flat&logo=react&logoColor=white&text=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-9e9e9e?style=flat&logo=javascript&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-9e9e9e?style=flat&logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-9e9e9e?style=flat&logo=node.js&logoColor=white)
 
 <br>
-
-### Github Stats & Languages
-
-[![Lottie's GitHub stats](https://github-readme-stats-five-beta-38.vercel.app/api?username=OhDaky&custom_title=Dakyeong's&nbsp;github&count_private=true&title_color=ffffff&text_color=ffffff&bg_color=90,a1c4fd,c2e9fb&show_icons=true&theme=discord_old_blurple)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats-five-beta-38.vercel.app/api/top-langs/?username=OhDaky&custom_title=Languages&layout=compact&title_color=ffffff&bg_color=90,a1c4fd,c2e9fb&text_color=ffffff)](https://github.com/yourusername/github-readme-stats)
-
-
